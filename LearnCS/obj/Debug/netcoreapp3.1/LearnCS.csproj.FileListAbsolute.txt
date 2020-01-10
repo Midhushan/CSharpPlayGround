@@ -1,0 +1,11 @@
+C:\Users\ski\source\repos\LearnCS\bin\Debug\netcoreapp3.1\LearnCS.exe
+C:\Users\ski\source\repos\LearnCS\bin\Debug\netcoreapp3.1\LearnCS.deps.json
+C:\Users\ski\source\repos\LearnCS\bin\Debug\netcoreapp3.1\LearnCS.runtimeconfig.json
+C:\Users\ski\source\repos\LearnCS\bin\Debug\netcoreapp3.1\LearnCS.runtimeconfig.dev.json
+C:\Users\ski\source\repos\LearnCS\bin\Debug\netcoreapp3.1\LearnCS.dll
+C:\Users\ski\source\repos\LearnCS\bin\Debug\netcoreapp3.1\LearnCS.pdb
+C:\Users\ski\source\repos\LearnCS\obj\Debug\netcoreapp3.1\LearnCS.csprojAssemblyReference.cache
+C:\Users\ski\source\repos\LearnCS\obj\Debug\netcoreapp3.1\LearnCS.AssemblyInfoInputs.cache
+C:\Users\ski\source\repos\LearnCS\obj\Debug\netcoreapp3.1\LearnCS.AssemblyInfo.cs
+C:\Users\ski\source\repos\LearnCS\obj\Debug\netcoreapp3.1\LearnCS.dll
+C:\Users\ski\source\repos\LearnCS\obj\Debug\netcoreapp3.1\LearnCS.pdb
