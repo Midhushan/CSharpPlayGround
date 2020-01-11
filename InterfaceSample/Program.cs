@@ -11,6 +11,8 @@ namespace InterfaceSample
         static void Main(string[] args)
         {
             Console.Write("sas");
+            jhjhjhj
+                jkjk;
         }
     }
 }
