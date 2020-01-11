@@ -1,0 +1,6 @@
+c:\users\oyslans\documents\visual studio 2015\Projects\linqEx\linqEx\bin\Debug\linqEx.exe.config
+c:\users\oyslans\documents\visual studio 2015\Projects\linqEx\linqEx\bin\Debug\linqEx.exe
+c:\users\oyslans\documents\visual studio 2015\Projects\linqEx\linqEx\bin\Debug\linqEx.pdb
+c:\users\oyslans\documents\visual studio 2015\Projects\linqEx\linqEx\obj\Debug\linqEx.csprojResolveAssemblyReference.cache
+c:\users\oyslans\documents\visual studio 2015\Projects\linqEx\linqEx\obj\Debug\linqEx.exe
+c:\users\oyslans\documents\visual studio 2015\Projects\linqEx\linqEx\obj\Debug\linqEx.pdb
