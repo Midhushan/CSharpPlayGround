@@ -1,0 +1,6 @@
+C:\Users\Oyslans\Source\Repos\CSharpPlayGround\InterfaceSample\bin\Debug\InterfaceSample.exe.config
+C:\Users\Oyslans\Source\Repos\CSharpPlayGround\InterfaceSample\bin\Debug\InterfaceSample.exe
+C:\Users\Oyslans\Source\Repos\CSharpPlayGround\InterfaceSample\bin\Debug\InterfaceSample.pdb
+C:\Users\Oyslans\Source\Repos\CSharpPlayGround\InterfaceSample\obj\Debug\InterfaceSample.csprojResolveAssemblyReference.cache
+C:\Users\Oyslans\Source\Repos\CSharpPlayGround\InterfaceSample\obj\Debug\InterfaceSample.exe
+C:\Users\Oyslans\Source\Repos\CSharpPlayGround\InterfaceSample\obj\Debug\InterfaceSample.pdb
