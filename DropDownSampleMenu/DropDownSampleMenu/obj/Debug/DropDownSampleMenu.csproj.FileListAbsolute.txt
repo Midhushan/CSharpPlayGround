@@ -1,0 +1,48 @@
+c:\users\oyslans\documents\visual studio 2015\Projects\DropDownSampleMenu\DropDownSampleMenu\bin\Debug\DropDownSampleMenu.exe.config
+C:\Users\Oyslans\documents\visual studio 2015\Projects\DropDownSampleMenu\DropDownSampleMenu\bin\Debug\DropDownSampleMenu.exe
+C:\Users\Oyslans\documents\visual studio 2015\Projects\DropDownSampleMenu\DropDownSampleMenu\bin\Debug\DropDownSampleMenu.pdb
+C:\Users\Oyslans\documents\visual studio 2015\Projects\DropDownSampleMenu\DropDownSampleMenu\bin\Debug\MaterialDesignColors.dll
+C:\Users\Oyslans\documents\visual studio 2015\Projects\DropDownSampleMenu\DropDownSampleMenu\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Oyslans\documents\visual studio 2015\Projects\DropDownSampleMenu\DropDownSampleMenu\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Oyslans\documents\visual studio 2015\Projects\DropDownSampleMenu\DropDownSampleMenu\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Oyslans\documents\visual studio 2015\Projects\DropDownSampleMenu\DropDownSampleMenu\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Oyslans\documents\visual studio 2015\Projects\DropDownSampleMenu\DropDownSampleMenu\obj\Debug\DropDownSampleMenu.csprojResolveAssemblyReference.cache
+C:\Users\Oyslans\documents\visual studio 2015\Projects\DropDownSampleMenu\DropDownSampleMenu\obj\Debug\MainWindow.g.cs
+C:\Users\Oyslans\documents\visual studio 2015\Projects\DropDownSampleMenu\DropDownSampleMenu\obj\Debug\NewUserControlMenuItem.g.cs
+C:\Users\Oyslans\documents\visual studio 2015\Projects\DropDownSampleMenu\DropDownSampleMenu\obj\Debug\App.g.cs
+C:\Users\Oyslans\documents\visual studio 2015\Projects\DropDownSampleMenu\DropDownSampleMenu\obj\Debug\DropDownSampleMenu_MarkupCompile.cache
+C:\Users\Oyslans\documents\visual studio 2015\Projects\DropDownSampleMenu\DropDownSampleMenu\obj\Debug\DropDownSampleMenu_MarkupCompile.lref
+C:\Users\Oyslans\documents\visual studio 2015\Projects\DropDownSampleMenu\DropDownSampleMenu\obj\Debug\App.baml
+C:\Users\Oyslans\documents\visual studio 2015\Projects\DropDownSampleMenu\DropDownSampleMenu\obj\Debug\MainWindow.baml
+C:\Users\Oyslans\documents\visual studio 2015\Projects\DropDownSampleMenu\DropDownSampleMenu\obj\Debug\NewUserControlMenuItem.baml
+C:\Users\Oyslans\documents\visual studio 2015\Projects\DropDownSampleMenu\DropDownSampleMenu\obj\Debug\DropDownSampleMenu.g.resources
+C:\Users\Oyslans\documents\visual studio 2015\Projects\DropDownSampleMenu\DropDownSampleMenu\obj\Debug\DropDownSampleMenu.Properties.Resources.resources
+C:\Users\Oyslans\documents\visual studio 2015\Projects\DropDownSampleMenu\DropDownSampleMenu\obj\Debug\DropDownSampleMenu.csproj.GenerateResource.Cache
+C:\Users\Oyslans\documents\visual studio 2015\Projects\DropDownSampleMenu\DropDownSampleMenu\obj\Debug\DropDownSampleMenu.exe
+C:\Users\Oyslans\documents\visual studio 2015\Projects\DropDownSampleMenu\DropDownSampleMenu\obj\Debug\DropDownSampleMenu.pdb
+C:\Users\Oyslans\Desktop\DropDownSampleMenu\DropDownSampleMenu\bin\Debug\DropDownSampleMenu.exe.config
+C:\Users\Oyslans\Desktop\DropDownSampleMenu\DropDownSampleMenu\obj\Debug\DropDownSampleMenu.exe
+C:\Users\Oyslans\Desktop\DropDownSampleMenu\DropDownSampleMenu\obj\Debug\DropDownSampleMenu.pdb
+C:\Users\Oyslans\Desktop\DropDownSampleMenu\DropDownSampleMenu\obj\Debug\DropDownSampleMenu.csprojResolveAssemblyReference.cache
+C:\Users\Oyslans\Desktop\DropDownSampleMenu\DropDownSampleMenu\obj\Debug\MainWindow.g.cs
+C:\Users\Oyslans\Desktop\DropDownSampleMenu\DropDownSampleMenu\obj\Debug\NewUserControlMenuItem.g.cs
+C:\Users\Oyslans\Desktop\DropDownSampleMenu\DropDownSampleMenu\obj\Debug\UserControlCustomers.g.cs
+C:\Users\Oyslans\Desktop\DropDownSampleMenu\DropDownSampleMenu\obj\Debug\UserControlProviders.g.cs
+C:\Users\Oyslans\Desktop\DropDownSampleMenu\DropDownSampleMenu\obj\Debug\App.g.cs
+C:\Users\Oyslans\Desktop\DropDownSampleMenu\DropDownSampleMenu\obj\Debug\DropDownSampleMenu_MarkupCompile.cache
+C:\Users\Oyslans\Desktop\DropDownSampleMenu\DropDownSampleMenu\obj\Debug\DropDownSampleMenu_MarkupCompile.lref
+C:\Users\Oyslans\Desktop\DropDownSampleMenu\DropDownSampleMenu\bin\Debug\DropDownSampleMenu.exe
+C:\Users\Oyslans\Desktop\DropDownSampleMenu\DropDownSampleMenu\bin\Debug\DropDownSampleMenu.pdb
+C:\Users\Oyslans\Desktop\DropDownSampleMenu\DropDownSampleMenu\bin\Debug\MaterialDesignColors.dll
+C:\Users\Oyslans\Desktop\DropDownSampleMenu\DropDownSampleMenu\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Oyslans\Desktop\DropDownSampleMenu\DropDownSampleMenu\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Oyslans\Desktop\DropDownSampleMenu\DropDownSampleMenu\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Oyslans\Desktop\DropDownSampleMenu\DropDownSampleMenu\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Oyslans\Desktop\DropDownSampleMenu\DropDownSampleMenu\obj\Debug\App.baml
+C:\Users\Oyslans\Desktop\DropDownSampleMenu\DropDownSampleMenu\obj\Debug\MainWindow.baml
+C:\Users\Oyslans\Desktop\DropDownSampleMenu\DropDownSampleMenu\obj\Debug\NewUserControlMenuItem.baml
+C:\Users\Oyslans\Desktop\DropDownSampleMenu\DropDownSampleMenu\obj\Debug\UserControlCustomers.baml
+C:\Users\Oyslans\Desktop\DropDownSampleMenu\DropDownSampleMenu\obj\Debug\UserControlProviders.baml
+C:\Users\Oyslans\Desktop\DropDownSampleMenu\DropDownSampleMenu\obj\Debug\DropDownSampleMenu.g.resources
+C:\Users\Oyslans\Desktop\DropDownSampleMenu\DropDownSampleMenu\obj\Debug\DropDownSampleMenu.Properties.Resources.resources
+C:\Users\Oyslans\Desktop\DropDownSampleMenu\DropDownSampleMenu\obj\Debug\DropDownSampleMenu.csproj.GenerateResource.Cache
