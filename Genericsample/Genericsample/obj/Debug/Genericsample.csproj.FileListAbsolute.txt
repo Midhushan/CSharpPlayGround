@@ -1,0 +1,6 @@
+c:\users\oyslans\documents\visual studio 2015\Projects\Genericsample\Genericsample\bin\Debug\Genericsample.exe.config
+c:\users\oyslans\documents\visual studio 2015\Projects\Genericsample\Genericsample\bin\Debug\Genericsample.exe
+c:\users\oyslans\documents\visual studio 2015\Projects\Genericsample\Genericsample\bin\Debug\Genericsample.pdb
+c:\users\oyslans\documents\visual studio 2015\Projects\Genericsample\Genericsample\obj\Debug\Genericsample.csprojResolveAssemblyReference.cache
+c:\users\oyslans\documents\visual studio 2015\Projects\Genericsample\Genericsample\obj\Debug\Genericsample.exe
+c:\users\oyslans\documents\visual studio 2015\Projects\Genericsample\Genericsample\obj\Debug\Genericsample.pdb
