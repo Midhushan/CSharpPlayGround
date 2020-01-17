@@ -1,0 +1,11 @@
+C:\Users\Oyslans\Documents\Visual Studio 2019\Projects\CSharpAdvance\bin\Debug\netcoreapp3.1\CSharpAdvance.exe
+C:\Users\Oyslans\Documents\Visual Studio 2019\Projects\CSharpAdvance\bin\Debug\netcoreapp3.1\CSharpAdvance.deps.json
+C:\Users\Oyslans\Documents\Visual Studio 2019\Projects\CSharpAdvance\bin\Debug\netcoreapp3.1\CSharpAdvance.runtimeconfig.json
+C:\Users\Oyslans\Documents\Visual Studio 2019\Projects\CSharpAdvance\bin\Debug\netcoreapp3.1\CSharpAdvance.runtimeconfig.dev.json
+C:\Users\Oyslans\Documents\Visual Studio 2019\Projects\CSharpAdvance\bin\Debug\netcoreapp3.1\CSharpAdvance.dll
+C:\Users\Oyslans\Documents\Visual Studio 2019\Projects\CSharpAdvance\bin\Debug\netcoreapp3.1\CSharpAdvance.pdb
+C:\Users\Oyslans\Documents\Visual Studio 2019\Projects\CSharpAdvance\obj\Debug\netcoreapp3.1\CSharpAdvance.csprojAssemblyReference.cache
+C:\Users\Oyslans\Documents\Visual Studio 2019\Projects\CSharpAdvance\obj\Debug\netcoreapp3.1\CSharpAdvance.AssemblyInfoInputs.cache
+C:\Users\Oyslans\Documents\Visual Studio 2019\Projects\CSharpAdvance\obj\Debug\netcoreapp3.1\CSharpAdvance.AssemblyInfo.cs
+C:\Users\Oyslans\Documents\Visual Studio 2019\Projects\CSharpAdvance\obj\Debug\netcoreapp3.1\CSharpAdvance.dll
+C:\Users\Oyslans\Documents\Visual Studio 2019\Projects\CSharpAdvance\obj\Debug\netcoreapp3.1\CSharpAdvance.pdb
